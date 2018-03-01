@@ -1,0 +1,18 @@
+<template>
+  <wxc-sparkui></wxc-sparkui>
+</template>
+
+<script>
+export default {
+  config: {
+    usingComponents: {
+      'wxc-sparkui': '@sparkui/wxc-sparkui'
+    }
+  },
+  data: { },
+  methods: { }
+}
+</script>
+
+<style>
+</style>

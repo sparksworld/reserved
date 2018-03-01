@@ -1,0 +1,9 @@
+{
+	"description": "项目配置文件。",
+	"compileType": "miniprogram",
+	"libVersion": "1.7.1",
+	"appid": "wx2f37a60682b5a534",
+	"projectname": "spark-ui",
+	"setting": {},
+	"condition": {}
+}

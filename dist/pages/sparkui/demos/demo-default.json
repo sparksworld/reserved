@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "wxc-sparkui": "../../../packages/wxc-sparkui/dist/index"
+  },
+  "component": true
+}

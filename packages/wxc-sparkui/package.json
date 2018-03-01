@@ -1,0 +1,16 @@
+{
+  "name": "@sparkui/wxc-sparkui",
+  "version": "1.0.0",
+  "description": "sparkui - 小程序组件",
+  "main": "dist/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meili/minui/tree/master/packages/wxc-sparkui"
+  },
+  "author": "",
+  "license": "MIT",
+  "minConfig": {
+    "component": true
+  }
+}

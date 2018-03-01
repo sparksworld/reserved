@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "wxc-test": "../../../packages/wxc-test/dist/index"
+  },
+  "component": true
+}
